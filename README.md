@@ -19,6 +19,9 @@ Features:-
 - Has a realtime Visual Database for Videos
 - Added a play/pause feature
 - Fixed a bug (Audio was still playing when the screen was not present in the Frame)
+
+Output:-
+
 ![AugmaFlix](https://github.com/Divyanshu960/AugmaFlix/assets/72182690/70c22e7b-f7ca-41a5-9224-3e1e1da1daa1)
 
 Contibutions:-
