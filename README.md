@@ -6,10 +6,9 @@ About the code:-
 
 The code is mainly written in C sharp and focuses on objects and their classes. Basically the object oriented strengths of the language are mostly used.
 Vuforia a free software tool mainly used for agumented reality is mainly used for implementation with the help of unity for objcet placement and manipulation.
+![Display Model](https://github.com/Divyanshu960/AugmaFlix/assets/72182690/390cfaaf-fa4b-407a-8c70-b4d2ad8f7e11)
 
 Working:-
-
-![Display Model](https://github.com/Divyanshu960/AugmaFlix/assets/72182690/390cfaaf-fa4b-407a-8c70-b4d2ad8f7e11)
 
 At fist for projecting the image a unique base is chosen of highest strength (5 star) is chosen and then uploaded in the databse of vuforia which calculates the greyscale and bit range of the image.
 Then in Unity the database which was created in vuforia is being transferred and then placed in the plane and all other factors like lighting, contrast and various other factors are Modified or adjusted.
