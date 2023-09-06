@@ -26,5 +26,5 @@ Then using C sharp we give funcionality to the Objects which are in Agumented re
 
 ## Contibutions:-
 
-Any changes or advancements are appriciated.
+Any changes or advancements are appreciated.
 Thank you.
