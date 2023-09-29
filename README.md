@@ -10,7 +10,7 @@ Vuforia a free software tool mainly used for agumented reality is mainly used fo
 
 ## Working:-
 
-At fist for projecting the image a unique base is chosen of highest strength (5 star) is chosen and then uploaded in the databse of vuforia which calculates the greyscale and bit range of the image.
+At first for projecting the image a unique base is chosen of highest strength (5 star) is chosen and then uploaded in the databse of vuforia which calculates the greyscale and bit range of the image.
 Then in Unity the database which was created in vuforia is being transferred and then placed in the plane and all other factors like lighting, contrast and various other factors are Modified or adjusted.
 Then using C sharp we give funcionality to the Objects which are in Agumented reality.
 
